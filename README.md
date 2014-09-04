@@ -1,0 +1,4 @@
+cok
+===
+
+ini progam jancok
